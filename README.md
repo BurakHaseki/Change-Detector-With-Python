@@ -1,7 +1,7 @@
 # Change-Detector-With-Python
 
 
-Logs into the site with your information and notifies you via telegram if there is a change.
+Logs into the website with your information and notifies you via telegram if there is a change.
 
 Libraries used in the project
 -Selenium
