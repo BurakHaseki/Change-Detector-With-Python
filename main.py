@@ -35,16 +35,3 @@ while True:
         time.sleep(60)
     else:
         time.sleep(60)
-
-
-
-
-    
-
-
-
-
-
-
-
-
